@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "PM RPG Docs",
   description: "Documentation for my Project Moon inspired RPGs.",
+  base: '/PMSite/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
