@@ -1,0 +1,14 @@
+.dark {
+  --vp-c-bg: #12151c;
+  --vp-c-bg-alt: #161618;
+  --vp-c-bg-elv: #2c3c4d;
+  --vp-c-bg-soft: #1a1c22;
+
+  --vp-c-text-1: #4c95e9;
+  --vp-c-text-2: #86a6ca;
+  --vp-c-text-3: #6a6a71;
+
+  --vp-c-brand-1: #2CD8FF;
+
+  --vp-c-warning-soft: var(--vp-c-bg-soft);
+}
